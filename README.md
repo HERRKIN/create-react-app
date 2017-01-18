@@ -2,8 +2,6 @@
 
 Create React apps with no build configuration.
 
-Internal use only
-
 ## Instructions
 
 ### Installation
